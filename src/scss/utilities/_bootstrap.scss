@@ -3,8 +3,8 @@
 
 // 2. Include any default variable overrides here
 $prefix: wpde-;
-$primary: #1d4ed8; // Nová základní barva
-$secondary: #0ea5e9; // Nová základní barva
+$primary: #1d4ed8;
+$secondary: #0ea5e9; 
 
 $enable-caret: true; // true
 $enable-rounded: true; // true
@@ -180,7 +180,7 @@ $focus-ring-opacity: 0.75; // 0.25
     background-color: rgba(var(--wpde-body-bg-rgb), 0.65);
 }
 
-.blink {
+.a-blink {
     animation: blink 2s infinite;
 }
 

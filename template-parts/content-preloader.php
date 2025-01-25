@@ -15,7 +15,7 @@ if ($logo) {
 <?php if (!empty($preloader)) { ?>
     <div id="preloader" class="vh-100 w-100 position-absolute start-0 top-0 bg-body z-3 d-flex align-items-center justify-content-center">
         <?php if (!empty($logo_image)) { ?>
-                <img class="img-fluid blink" src="<?php echo esc_url($logo_image['url']); ?>" alt="Logo" width="<?php echo esc_attr($logo_width); ?>" height="auto"/>
+                <img class="img-fluid a-blink" src="<?php echo esc_url($logo_image['url']); ?>" alt="Logo" width="<?php echo esc_attr($logo_width); ?>" height="auto"/>
             <?php
             } elseif(!empty($logo_text)) {
                 echo esc_html($logo_text);
