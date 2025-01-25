@@ -1,0 +1,45 @@
+.cc--lightmode {
+    --cc-bg: var(--wpde-body-bg) !important;
+    --cc-btn-border-radius: var(--wpde-border-radius) !important;
+    --cc-btn-gap: 8px !important;
+    --cc-btn-primary-bg: var(--wpde-primary) !important;
+    --cc-btn-primary-hover-bg: rgba(var(--wpde-primary-rgb), 0.9) !important;
+}
+
+.cc--darkmode {
+    --cc-bg: var(--wpde-gray-950) !important;
+    --cc-btn-secondary-bg: var(--wpde-gray-900) !important;
+    --cc-btn-secondary-hover-bg: var(--wpde-gray-800) !important;
+    --cc-cookie-category-block-bg: var(--wpde-gray-900) !important;
+    --cc-section-category-border: var(--wpde-gray-900) !important;
+    --cc-cookie-category-block-hover-bg: var(--wpde-gray-800) !important;
+    --cc-separator-border-color: var(--wpde-gray-900) !important;
+    --cc-toggle-readonly-bg: var(--wpde-gray-800) !important;
+
+    --cc-btn-border-radius: var(--wpde-border-radius) !important;
+    --cc-btn-gap: 8px !important;
+    --cc-btn-primary-bg: var(--wpde-primary) !important;
+    --cc-btn-primary-hover-bg: rgba(var(--wpde-primary-rgb), 0.8) !important;
+    --cc-btn-primary-color: var(--wpde-light) !important;
+    --cc-btn-primary-hover-color: var(--wpde-light) !important;
+}
+
+// Modal header title
+.pm__title {
+    display: unset !important;
+
+    small {
+        display: block;
+        margin-top: 0.5em;
+        font-weight: 400;
+    }
+}
+
+// Modal show overlay
+#cc-main .pm-overlay {
+    backdrop-filter: blur(3px) !important;
+}
+
+#cc-main .pm__section-desc p {
+    display: block;
+}

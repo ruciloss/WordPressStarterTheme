@@ -1,0 +1,23 @@
+{
+    "devDependencies": {
+        "@eslint/js": "^9.8.0",
+        "css-loader": "^7.1.1",
+        "eslint": "^9.8.0",
+        "globals": "^15.9.0",
+        "ignore-emit-webpack-plugin": "^2.0.6",
+        "mini-css-extract-plugin": "^2.9.0",
+        "prettier": "^3.2.5",
+        "sass": "^1.77.1",
+        "sass-loader": "^14.2.1",
+        "webpack": "^5.91.0",
+        "webpack-cli": "^5.1.4"
+    },
+    "dependencies": {
+        "bootstrap": "5.3.3"
+    },
+    "scripts": {
+        "start": "webpack",
+        "format": "prettier --write src/**/*.{js,css,scss,sass}",
+        "lint": "eslint src/js/**/*.js"
+    }
+}

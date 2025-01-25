@@ -1,0 +1,2392 @@
+[
+    {
+        "key": "group_6648dd56c4ce9",
+        "title": "Settings",
+        "fields": [
+            {
+                "key": "field_669ad9b274872",
+                "label": "General",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Basic configuration and general function settings.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a16fd4aa0ae",
+                "label": "",
+                "name": "wpde_options",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a16fffaa0b6",
+                        "label": "Search form",
+                        "name": "search_form",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn off the search form on the website.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    },
+                    {
+                        "key": "field_66a1701faa0b7",
+                        "label": "Theme toggler",
+                        "name": "theme_toggler",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn off the theme toggler on the website.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    },
+                    {
+                        "key": "field_676a03c42ea62",
+                        "label": "Breadcrumbs",
+                        "name": "breadcrumbs",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn off the breadcrumbs on the website.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "allow_in_bindings": 1,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    },
+                    {
+                        "key": "field_67842ce34d26c",
+                        "label": "Pagination",
+                        "name": "pagination",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn off the pagination on the website.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "allow_in_bindings": 1,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    },
+                    {
+                        "key": "field_67842a826ea2b",
+                        "label": "Preloader",
+                        "name": "preloader",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn on preloader mode.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "allow_in_bindings": 1,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    },
+                    {
+                        "key": "field_676a03e32ea63",
+                        "label": "Under construction",
+                        "name": "under_construction",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Turn on under construction mode.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "allow_in_bindings": 1,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    }
+                ]
+            },
+            {
+                "key": "field_66afd93a8378a",
+                "label": "SMTP",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add contact information and\/or social media links and other.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66afd9448378b",
+                "label": "",
+                "name": "wpde_smtp",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66afd9448378e",
+                        "label": "Host",
+                        "name": "host",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Configure the SMTP host settings.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66afdb208378f",
+                        "label": "Username",
+                        "name": "username",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Configure the SMTP username.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66afd9448378d",
+                        "label": "Password",
+                        "name": "password",
+                        "aria-label": "",
+                        "type": "password",
+                        "instructions": "Configure the SMTP password.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66afdb85a2ca4",
+                        "label": "Encryption",
+                        "name": "encryption",
+                        "aria-label": "",
+                        "type": "radio",
+                        "instructions": "Configure the SMTP encryption.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "none": "None",
+                            "ssl": "SSL",
+                            "tls": "TLS"
+                        },
+                        "default_value": "",
+                        "return_format": "value",
+                        "allow_null": 0,
+                        "other_choice": 0,
+                        "layout": "vertical",
+                        "save_other_choice": 0
+                    },
+                    {
+                        "key": "field_66afdf7bcee99",
+                        "label": "Port",
+                        "name": "port",
+                        "aria-label": "",
+                        "type": "number",
+                        "instructions": "Configure the SMTP encryption port.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "min": "",
+                        "max": "",
+                        "placeholder": "",
+                        "step": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66afd9448378c",
+                        "label": "Email",
+                        "name": "email",
+                        "aria-label": "",
+                        "type": "email",
+                        "instructions": "Configure the 'From' email address that will be used to send emails.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66afdb75a2ca3",
+                        "label": "Name",
+                        "name": "name",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Configure the name that will appear as the sender of the email.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_669ae3ee76404",
+                "label": "Grid",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "You can configure the grid layout for post blocks.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a173f680cd7",
+                "label": "",
+                "name": "wpde_grid",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_669ae5799e5c2",
+                        "label": "Archive",
+                        "name": "archive",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_669bf97af9a2f",
+                        "label": "Author",
+                        "name": "author",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_669ae467f3e0a",
+                        "label": "Category",
+                        "name": "category",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_669ae3f676405",
+                        "label": "Search",
+                        "name": "search",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_669ae57f9e5c3",
+                        "label": "Tag",
+                        "name": "tag",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_669ae56d9e5c1",
+                        "label": "Taxonomy",
+                        "name": "taxonomy",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "Configure the number of blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "8": "1 block",
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": 4,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_67709533a2ef2",
+                        "label": "Archive Card Design",
+                        "name": "archive_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_677095f67060c",
+                        "label": "Author Card Design",
+                        "name": "author_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_677097216c517",
+                        "label": "Category Card Design",
+                        "name": "category_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_67709779ec0ee",
+                        "label": "Search Card Design",
+                        "name": "search_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_67709785ec0ef",
+                        "label": "Tag Card Design",
+                        "name": "tag_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_67709797ec0f0",
+                        "label": "Taxonomy Card Design",
+                        "name": "taxonomy_card",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "16.66",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "post": "Vertical",
+                            "post-horizontal": "Horizontal"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_669ad450913cf",
+                "label": "Logo",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Upload or set your website logo here.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a176da124b0",
+                "label": "",
+                "name": "wpde_logo",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_6648e83320e1a",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "Upload your logo image, which will appear in the top left block of the navbar and footer.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "preview_size": "medium"
+                    },
+                    {
+                        "key": "field_664cd25fa7285",
+                        "label": "Width",
+                        "name": "width",
+                        "aria-label": "",
+                        "type": "number",
+                        "instructions": "Set the optimal logo width based on the size of your image.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "min": "",
+                        "max": "",
+                        "placeholder": "",
+                        "step": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_664a79d83178f",
+                        "label": "Text",
+                        "name": "text",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "It will be displayed if no image logo is set and will be used for the copyright in the footer.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_669ad57a0fa76",
+                "label": "Metadata",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add contact information and\/or social media links and other.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a2c5d0f815f",
+                "label": "",
+                "name": "wpde_metadata",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_669ac41b9dd11",
+                        "label": "Email",
+                        "name": "email",
+                        "aria-label": "",
+                        "type": "email",
+                        "instructions": "Display your email in the bottom navigation bar.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_669ac42c9dd12",
+                        "label": "Phone",
+                        "name": "phone",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Display your phone number in the bottom navigation bar.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_665f34f8db598",
+                "label": "Social media",
+                "name": "wpde_social_media",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "Display your social media accounts in the footer.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_665f3506db599",
+                        "label": "Link",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "parent_repeater": "field_665f34f8db598"
+                    },
+                    {
+                        "key": "field_665f352f872e7",
+                        "label": "Icon",
+                        "name": "icon",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Facebook": "Facebook",
+                            "Instagram": "Instagram",
+                            "YouTube": "YouTube",
+                            "Tiktok": "Tiktok",
+                            "X": "X",
+                            "LinkedIN": "LinkedIN",
+                            "GitHub": "GitHub"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "parent_repeater": "field_665f34f8db598"
+                    }
+                ]
+            },
+            {
+                "key": "field_669af457c2d91",
+                "label": "Navbar",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "You can configure the navbar layout.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a17a4d66150",
+                "label": "",
+                "name": "wpde_navbar",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_669aefe367009",
+                        "label": "Position",
+                        "name": "position",
+                        "aria-label": "",
+                        "type": "radio",
+                        "instructions": "Configure the navbar position behavior.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Static": "Static",
+                            "Fixed": "Fixed",
+                            "Headroom": "Headroom"
+                        },
+                        "default_value": "",
+                        "return_format": "value",
+                        "allow_null": 0,
+                        "other_choice": 0,
+                        "layout": "horizontal",
+                        "save_other_choice": 0
+                    },
+                    {
+                        "key": "field_66b7849666942",
+                        "label": "Layout",
+                        "name": "layout",
+                        "aria-label": "",
+                        "type": "radio",
+                        "instructions": "Configure the navbar layout.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Container": "Container",
+                            "Full": "Full"
+                        },
+                        "default_value": "",
+                        "return_format": "value",
+                        "allow_null": 0,
+                        "other_choice": 0,
+                        "layout": "horizontal",
+                        "save_other_choice": 0
+                    },
+                    {
+                        "key": "field_669af6a056d08",
+                        "label": "Link",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the first link.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "allow_in_bindings": 1
+                    },
+                    {
+                        "key": "field_669af6e456d09",
+                        "label": "Link 2",
+                        "name": "link_2",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the second link.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "allow_in_bindings": 1
+                    },
+                    {
+                        "key": "field_676defae70df8",
+                        "label": "Cart",
+                        "name": "cart",
+                        "aria-label": "",
+                        "type": "checkbox",
+                        "instructions": "Hide WooCommerce shopping cart.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Yes": "Yes"
+                        },
+                        "default_value": [],
+                        "return_format": "value",
+                        "allow_custom": 0,
+                        "allow_in_bindings": 0,
+                        "layout": "vertical",
+                        "toggle": 0,
+                        "save_custom": 0,
+                        "custom_choice_button_text": "Add new choice"
+                    }
+                ]
+            },
+            {
+                "key": "field_669c1ca66b476",
+                "label": "Footer",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "You can configure the footer layout.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a17cece6134",
+                "label": "",
+                "name": "wpde_footer",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_669c1cb06b477",
+                        "label": "Layout",
+                        "name": "layout",
+                        "aria-label": "",
+                        "type": "radio",
+                        "instructions": "Configure the footer layout options.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Simple": "Simple",
+                            "Advanced": "Advanced"
+                        },
+                        "default_value": "",
+                        "return_format": "value",
+                        "allow_null": 0,
+                        "other_choice": 0,
+                        "layout": "horizontal",
+                        "save_other_choice": 0
+                    },
+                    {
+                        "key": "field_669c583862e3b",
+                        "label": "Left block",
+                        "name": "left_block",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Configure the footer left block.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_669bdd3c0f388",
+                "label": "Header",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add a header to the front page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_669bf42136726",
+                "label": "Header",
+                "name": "wpde_header",
+                "aria-label": "",
+                "type": "radio",
+                "instructions": "Configure the header layout behavior.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "Simple": "Simple",
+                    "Reviews": "Reviews",
+                    "Image": "Image",
+                    "Carousel Full": "Carousel Full",
+                    "Carousel Container": "Carousel Container",
+                    "Video Full": "Video Full",
+                    "Video Container": "Video Container"
+                },
+                "default_value": "",
+                "return_format": "value",
+                "allow_null": 0,
+                "other_choice": 0,
+                "allow_in_bindings": 1,
+                "layout": "horizontal",
+                "save_other_choice": 0
+            },
+            {
+                "key": "field_66a1665e2c821",
+                "label": "Metadata",
+                "name": "wpde_header_metadata",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "Define the metadata for the section.",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "!=",
+                            "value": "Carousel Full"
+                        },
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "!=",
+                            "value": "Carousel Container"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a166732c822",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a6d3ab70b5c",
+                        "label": "Subtitle",
+                        "name": "subtitle",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the subtitle of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a1667a2c823",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the section description.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    },
+                    {
+                        "key": "field_66a166a32c824",
+                        "label": "Button",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the first link.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array"
+                    },
+                    {
+                        "key": "field_66a166b22c825",
+                        "label": "Button 2",
+                        "name": "link_2",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the second link.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "50",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array"
+                    }
+                ]
+            },
+            {
+                "key": "field_664a0d942c51a",
+                "label": "Carousel",
+                "name": "wpde_header_carousel",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "You can add multiple blocks, each of which may have an image, a title and a description.",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Carousel"
+                        }
+                    ],
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Carousel Full"
+                        }
+                    ],
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Carousel Container"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Přidat řádek",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_664a0d942c51b",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set a title for each carousel item.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_664a0d942c51a"
+                    },
+                    {
+                        "key": "field_664a0d942c51c",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the description for each carousel item.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 4,
+                        "placeholder": "",
+                        "new_lines": "",
+                        "parent_repeater": "field_664a0d942c51a"
+                    },
+                    {
+                        "key": "field_676daf29513fb",
+                        "label": "Link",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "allow_in_bindings": 0,
+                        "parent_repeater": "field_664a0d942c51a"
+                    },
+                    {
+                        "key": "field_664a0d942c51d",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "Assign an image to each carousel item.",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "preview_size": "medium",
+                        "parent_repeater": "field_664a0d942c51a"
+                    }
+                ]
+            },
+            {
+                "key": "field_66a16dc2aa0aa",
+                "label": "Reviews",
+                "name": "wpde_header_reviews",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "You can add multiple blocks, each of which may have an image, a title and a description.",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Reviews"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Přidat řádek",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_66a16dc3aa0ad",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "Assign an image to each carousel item.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "preview_size": "medium",
+                        "parent_repeater": "field_66a16dc2aa0aa"
+                    },
+                    {
+                        "key": "field_66a16dc2aa0ab",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set a title for each carousel item.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_66a16dc2aa0aa"
+                    },
+                    {
+                        "key": "field_66a16dc2aa0ac",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the description for each carousel item.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 4,
+                        "placeholder": "",
+                        "new_lines": "",
+                        "parent_repeater": "field_66a16dc2aa0aa"
+                    }
+                ]
+            },
+            {
+                "key": "field_66a6d32b92885",
+                "label": "Image",
+                "name": "wpde_header_image",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "You can add multiple blocks, each of which may have an image, a title and a description.",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Image"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_676dff68400d4",
+                "label": "Video",
+                "name": "wpde_header_video",
+                "aria-label": "",
+                "type": "file",
+                "instructions": "You can add multiple blocks, each of which may have an image, a title and a description.",
+                "required": 1,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Video Full"
+                        }
+                    ],
+                    [
+                        {
+                            "field": "field_669bf42136726",
+                            "operator": "==",
+                            "value": "Video Container"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array",
+                "library": "all",
+                "min_size": "",
+                "max_size": 40,
+                "mime_types": "",
+                "allow_in_bindings": 0
+            },
+            {
+                "key": "field_669ad35dfc406",
+                "label": "Icons",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add an icons section to the front page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a2ce0ea27e6",
+                "label": "",
+                "name": "wpde_icons",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a2ce0ea27e7",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a2ce0ea27e8",
+                        "label": "Subtitle",
+                        "name": "subtitle",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the subtitle of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a2ce0ea27e9",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the section description.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_6648e88bd76d4",
+                "label": "Items",
+                "name": "wpde_icons_items",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "You can add multiple blocks.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Přidat řádek",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_6648e8c7a23e5",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the box.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_6648e88bd76d4"
+                    },
+                    {
+                        "key": "field_6648e8d1a23e6",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the description for the box.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 4,
+                        "placeholder": "",
+                        "new_lines": "",
+                        "parent_repeater": "field_6648e88bd76d4"
+                    },
+                    {
+                        "key": "field_6648e8dca23e7",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "Set the image for the box.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "preview_size": "medium",
+                        "parent_repeater": "field_6648e88bd76d4"
+                    }
+                ]
+            },
+            {
+                "key": "field_669b01bd0105b",
+                "label": "Gallery",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add a gallery to the front page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a2ca4413241",
+                "label": "",
+                "name": "wpde_gallery",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a2ca4413242",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a2ca4413243",
+                        "label": "Subtitle",
+                        "name": "subtitle",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the subtitle of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a2ca4413244",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the section description.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_669b01aa01057",
+                "label": "Items",
+                "name": "wpde_gallery_items",
+                "aria-label": "",
+                "type": "gallery",
+                "instructions": "You can add multiple images.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array",
+                "library": "all",
+                "min": "",
+                "max": "",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "insert": "append",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_66a3aa222e168",
+                "label": "Logos",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add logos to the front page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a3ac128a70e",
+                "label": "",
+                "name": "wpde_logos",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a3ac138a70f",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a3ac138a710",
+                        "label": "Subtitle",
+                        "name": "subtitle",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the subtitle of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a3ac138a711",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the section description.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_66a3aa572e169",
+                "label": "Items",
+                "name": "wpde_logos_items",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "You can add multiple blocks.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_66a3aae611c9d",
+                        "label": "Link",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the link.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "parent_repeater": "field_66a3aa572e169"
+                    },
+                    {
+                        "key": "field_66a3aa942e16a",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "Set the image for the box.",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "preview_size": "medium",
+                        "parent_repeater": "field_66a3aa572e169"
+                    }
+                ]
+            },
+            {
+                "key": "field_66a6b168e598f",
+                "label": "Posts",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add a listing of posts for the selected post type on the front page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_66a6b174e5990",
+                "label": "",
+                "name": "wpde_posts",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_66a6b174e5991",
+                        "label": "Title",
+                        "name": "title",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a6b174e5992",
+                        "label": "Subtitle",
+                        "name": "subtitle",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the subtitle of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_66a6b174e5993",
+                        "label": "Description",
+                        "name": "description",
+                        "aria-label": "",
+                        "type": "textarea",
+                        "instructions": "Set the section description.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "rows": 1,
+                        "placeholder": "",
+                        "new_lines": ""
+                    },
+                    {
+                        "key": "field_66afe3bb2d1c1",
+                        "label": "Grid",
+                        "name": "grid",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "You can configure the grid layout for these blocks.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "6": "2 blocks",
+                            "4": "3 blocks",
+                            "3": "4 blocks"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_676df60b0e704",
+                "label": "Alert",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "Add an alert message to the website.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_676df6570e705",
+                "label": "",
+                "name": "wpde_alert",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_676df6570e706",
+                        "label": "Text",
+                        "name": "text",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "Set the title of the section.",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 1,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_676df6570e708",
+                        "label": "Link",
+                        "name": "link",
+                        "aria-label": "",
+                        "type": "link",
+                        "instructions": "Set the section description.",
+                        "required": false,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "33",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "wpde"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "WPDE Settings",
+        "show_in_rest": 1
+    }
+]

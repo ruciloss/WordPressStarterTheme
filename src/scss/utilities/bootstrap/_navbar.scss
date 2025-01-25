@@ -1,0 +1,8 @@
+.navbar-toggler {
+    width: 30px;
+    height: 30px;
+
+    &.dropdown-toggle:after {
+        content: none;
+    }
+}

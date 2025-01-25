@@ -1,0 +1,100 @@
+:root {
+    --wpde-white: #ffffff;
+    --wpde-white-filter: invert(100%) sepia(1%) saturate(4709%) hue-rotate(174deg) brightness(109%) contrast(101%);
+
+    --wpde-black: #000000;
+    --wpde-black-filter: invert(0%) sepia(1%) saturate(7485%) hue-rotate(274deg) brightness(92%) contrast(100%);
+
+    --wpde-gray: #737373; 
+    --wpde-gray-filter: invert(46%) sepia(1%) saturate(0%) hue-rotate(342deg) brightness(96%) contrast(88%); 
+
+    --wpde-bg: #f5f5f5;
+    --wpde-bg-dark: #171717;
+
+    --wpde-primary: #15803d;
+
+    --wpde-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    --wpde-border: #e5e5e5;
+
+    --wpde-success: #15803d;
+    --wpde-success-bg: #edf7ef;
+    --wpde-success-border: #b6deb9;
+    --wpde-success-filter: invert(20%) sepia(99%) saturate(4210%) hue-rotate(147deg) brightness(92%) contrast(84%);
+
+    --wpde-warning: #fb923c;
+    --wpde-warning-bg: #fff7ed;
+    --wpde-warning-border: #fed7aa;
+
+    --wpde-danger: #dc2626;
+    --wpde-danger-bg: #fef2f2;
+    --wpde-danger-border: #fecaca;
+
+    --wpde-info: #38bdf8;
+    --wpde-info-bg: #ecfeff;
+    --wpde-info-border: #a5f3fc;
+}
+
+// Toolbar
+#wpadminbar #wp-admin-bar-wpde .ab-icon:before {
+    content: url('../../img/admin/icon.svg'); 
+    width: 18px !important;
+    height: 18px !important;
+    display: block !important;
+    margin: auto !important;
+    top: 2px !important;
+}
+
+// Menu
+#adminmenu #toplevel_page_wpde .wp-menu-image img {
+    width: 18px;
+    height: auto;
+}
+
+// Metabox
+#wpde-dashboard-metabox {
+    .title {
+        font-weight: 500;
+    }
+
+    .wpde-plugins {
+
+        &.separator {
+            border-bottom: 1px solid var(--wpde-border);
+        }
+
+        li {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 20px;
+
+            p {
+                margin: 0;
+            }
+
+            &.required {
+                color: var(--wpde-danger);
+
+                img {
+                    filter: var(--wpde-danger-filter);
+                }
+            }
+
+            &.inactive {
+                color: var(--wpde-gray);
+
+                img {
+                    filter: var(--wpde-gray-filter);
+                }
+            }
+
+            &.active {
+                color: var(--wpde-success);
+
+                img {
+                    filter: var(--wpde-success-filter);
+                }
+            }
+        }
+    }
+}

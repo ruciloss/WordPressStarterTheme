@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+@import "utilities/bootstrap";
+@import "utilities/bootstrap/carousel";
+@import "utilities/bootstrap/dropdown";
+@import "utilities/bootstrap/navbar";
+@import "utilities/bootstrap/tooltip";
+
+@import "utilities/cookies";
+@import "utilities/recaptcha";
+
+// wpadminbar
+html {
+    margin-top: 0 !important;
+}
+
+#wpadminbar {
+    opacity: 0;
+    transition: all .2s;
+
+    &:hover {
+        opacity: 1;
+    }
+
+    #wp-admin-bar-wpde .ab-icon:before {
+        content: url('../../img/admin/icon.svg'); 
+        width: 18px !important;
+        height: 18px !important;
+        display: block !important;
+        margin: auto !important;
+        top: 2px !important;
+    }
+}

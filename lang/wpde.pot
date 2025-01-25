@@ -1,0 +1,2774 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Ruciloss
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: woocommerce/loop/rating.php:32
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-07 21:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:25 page-nahlasit-chybu.php:19
+msgid "Jak nahlásit chybu?"
+msgstr ""
+
+#: 404.php:26 page-nahlasit-chybu.php:20
+msgid "Pokud máte dojem, že je chyba na mojí straně prosím kontaktujte mě."
+msgstr ""
+
+#: footer.php:24
+msgid "Sledujte mě"
+msgstr ""
+
+#: footer.php:37
+msgid "O Apiru"
+msgstr ""
+
+#: footer.php:40
+msgid ""
+"Jmenuji se Ruciloss. Jsem webový vývojář a WordPress expert. S "
+"programováním a tvorbou webových stránek mám více než 10 let zkušeností."
+msgstr ""
+
+#: footer.php:46
+msgid "Užitečné odkazy"
+msgstr ""
+
+#: footer.php:61
+msgid "Klientská zóna"
+msgstr ""
+
+#: footer.php:64
+msgid "Nastavení soukromí"
+msgstr ""
+
+#: footer.php:81
+msgid "Aktuality"
+msgstr ""
+
+#: footer.php:95
+msgid "Litujeme nemohli jsme najít žádné příspěvky."
+msgstr ""
+
+#: footer.php:101
+msgid "Zobrazít více"
+msgstr ""
+
+#: footer.php:124
+msgid "Ruciloss. Všechna práva vyhrazena."
+msgstr ""
+
+#: footer.php:198 page-kontakty.php:27 apiru-parts/apiru-documents.php:30
+msgid "Ruciloss"
+msgstr ""
+
+#: footer.php:199
+msgid "Všechna práva vyhrazena"
+msgstr ""
+
+#: front-page.php:29
+msgid "Úvodem"
+msgstr ""
+
+#: front-page.php:30
+msgid ""
+"Potřebujete online řešení na míru? S programováním a tvorbou webových "
+"stránek mám více než 10 let zkušeností."
+msgstr ""
+
+#: front-page.php:31
+msgid ""
+"Prohlédněte si moje služby nebo reference. V případě více dotazů mě "
+"neváhejte kontaktovat"
+msgstr ""
+
+#: front-page.php:35 apiru-parts/apiru-services.php:12
+msgid "Služby"
+msgstr ""
+
+#: front-page.php:41 front-page.php:59 inc/cpt/apiru_projects.php:12
+#: inc/cpt/apiru_projects.php:13 inc/cpt/apiru_projects.php:14
+#: inc/cpt/apiru_projects.php:15 inc/cpt/apiru_projects.php:19
+#: inc/cpt/apiru_projects.php:41
+msgid "Reference"
+msgstr ""
+
+#: front-page.php:83 single.php:175
+msgid "Další reference"
+msgstr ""
+
+#: header.php:116
+msgid "Menu"
+msgstr ""
+
+#: header.php:134 header.php:142
+msgid "Vytisknout"
+msgstr ""
+
+#: header.php:137
+msgid "Stáhnout pdf"
+msgstr ""
+
+#: header.php:158 header.php:175
+msgid "Přihlásit se"
+msgstr ""
+
+#: page-kontakty.php:21
+msgid "Fakturační údaje"
+msgstr ""
+
+#: page-kontakty.php:28
+msgid "Havířov, 73601 Karviná, Česká republika"
+msgstr ""
+
+#: page-kontakty.php:29 apiru-parts/apiru-documents.php:38
+msgid "+420 777 099 521"
+msgstr ""
+
+#: page-kontakty.php:30
+msgid "info@jindrichrucil.com"
+msgstr ""
+
+#: page-kontakty.php:31 apiru-parts/apiru-documents.php:34
+msgid "IČ: 10671536"
+msgstr ""
+
+#: page-kontakty.php:32
+msgid "Neplátce DPH"
+msgstr ""
+
+#: page-kontakty.php:37
+msgid "Bankovní spojení"
+msgstr ""
+
+#: page-kontakty.php:43
+msgid "Platba v CZK:"
+msgstr ""
+
+#: page-kontakty.php:43
+msgid "xxxxxxxxx/0800 (Česká spořitelna)"
+msgstr ""
+
+#: page-kontakty.php:44
+msgid "Platba v USD:"
+msgstr ""
+
+#: page-kontakty.php:44
+msgid "IBAN CZ******************, CZ"
+msgstr ""
+
+#: page-kontakty.php:45
+msgid "Jako variabilní symbol prosím uveďte číslo faktury"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:18
+msgid "Kolik stojí výroba webových stránek?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:24
+msgid ""
+"Cena webových stránek je individuální. Každý klient má individuální "
+"požadavky, na základě toho nelze předem vyčíslit konečnou částku systému. \n"
+"            Zašlete mi prosím poptávku a já Vám na základě Vašich požadavků "
+"nacením projekt."
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:30
+msgid "Jak dlouho trvá výroba systému?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:36
+msgid ""
+"Záleží na mnoha okolnostech např. včasného dodání všech podkladů, "
+"bezproblémové komunikaci, celkové náročnosti projektu, vytíženosti a jiné. \n"
+"            Průměrné webové stránky lze vyrobit za 3 měsíce, rozsáhlejší "
+"projekty zaberou většinou více času. \n"
+"            Věřte mi, že nemá smysl výrobu uspěchat. Na základě Vaší "
+"představy jsem schopen určit přibližný čas výroby\n"
+"            stačí mě pouze kontaktovat a nastínit Váš záměr."
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:44
+msgid "Lze přes Vás objednat webhosting?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:50
+msgid ""
+"Ano, včetně domény. Umístím Vaše webové stránky, e-shop, rezervační systém "
+"nebo jiné online řešení na kvalitní server. \n"
+"            Služba zahrnuje také zřízení e-mailových schránek, databázi, SSL "
+"zabezpečení, zálohy a jiné. Všechny technické záležitosti vyřídím za Vás."
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:56
+msgid "Lze upravovat hotové webové stránky?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:62
+msgid ""
+"Ano. Ať už potřebujete webové stránky, e-shop, rezervační systém nebo jiné "
+"řešení všechny systémy obsahují \n"
+"            administrační prostředí pomocí, kterého lze upravovat hodně "
+"aspektů webu včetně vytváření blogů, produktů, uživatelů a jiných součástí."
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:68
+msgid "Webové stránky ve více jazycích?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:74
+msgid "Ano. Vytvářím webové stránky, které často potřebují jazykové migrace."
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:79
+msgid "Napojení na systémy 3. strany?"
+msgstr ""
+
+#: page-nejcastejsi-dotazy.php:85
+msgid ""
+"Ano. Napojím Vás na systémy třetích stran jako jsou sociální sítě Facebook "
+"nebo Instagram, ale také na systémy od Google jako Analytics, Ads a jiné. "
+"Samozřejmostí jsou i tuzemské systémy od Seznamu, Národní Identita nebo "
+"učetní software Pohoda."
+msgstr ""
+
+#: single.php:38 single.php:130 single.php:221 inc/cpt/apiru_docs.php:77
+#: inc/cpt/apiru_docs.php:78 inc/cpt/apiru_docs.php:79
+#: inc/cpt/apiru_documents.php:77 inc/cpt/apiru_documents.php:78
+#: inc/cpt/apiru_documents.php:79 inc/cpt/apiru_posts.php:78
+#: inc/cpt/apiru_posts.php:79 inc/cpt/apiru_posts.php:80
+#: inc/cpt/apiru_projects.php:77 inc/cpt/apiru_projects.php:78
+#: inc/cpt/apiru_projects.php:79 inc/cpt/apiru_tickets.php:77
+#: inc/cpt/apiru_tickets.php:78 inc/cpt/apiru_tickets.php:79
+msgid "Kategorie"
+msgstr ""
+
+#: single.php:63
+msgid "Další příspěvky"
+msgstr ""
+
+#: single.php:154
+msgid "Navštívit stránku"
+msgstr ""
+
+#: single.php:241
+msgid "Autor"
+msgstr ""
+
+#: single.php:248
+msgid "Další příspěvky v kategorii"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:10
+msgid "Faktura"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:12
+msgid "Zálohová faktura"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:14
+msgid "Dobropis"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:16
+msgid "Prodejka"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:28
+msgid "Dodavatel"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:31
+msgid "U Lesa 277/4"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:32
+msgid "736 01 Havířov"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:33
+msgid "Česká republika"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:35
+msgid "Nejsme plátci DPH"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:36
+msgid "Kontaktní údaje"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:37
+msgid "fakturace@jindrichrucil.com"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:42
+msgid "Odběratel"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:52
+msgid "Datum vystavení:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:57
+msgid "Datum splatnosti:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:65
+msgid "Bankovní účet "
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:66
+msgid "123456789/0800"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:67
+msgid "IBAN: 5635 4564 6456"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:68
+msgid "SWIFT: GIBACZPX"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:72
+msgid "Symbol"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:96
+msgid "Způsob platby:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:97
+msgid "K úhradě:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:181
+msgid "Cena před slevou:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:182
+msgid "Sleva celkem:"
+msgstr ""
+
+#: apiru-parts/apiru-documents.php:184
+msgid "Celkem k úhradě:"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:92
+msgid "Dobrý den"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:173
+msgid "Vyhledávání pro:"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:184
+msgid "Výpis příspěvků od autora"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:194
+msgid "404"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:199
+msgid "Stránka nebyla nalezena"
+msgstr ""
+
+#: apiru-parts/apiru-header.php:201
+msgid "Pravděpodobně hledáte něco, co se na webu nenachází."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:3
+msgid "Standard dnešní doby"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:4
+msgid "Základní funkce pro online řešení, které odráží standard dnešní doby."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:12
+msgid "Jedinečný vzhled"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:13
+msgid ""
+"Nakreslím a vymyslím jedinečný design webových stránek pro Vaše podnikání. "
+"Odliším Vás od konkurence."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:19
+msgid "Responzivní vzhled"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:20
+msgid ""
+"Moje systémy jsou přizpůsobené pro veškerá chytrá zařízení. Například pro "
+"telefon nebo tablet, ale také pro notebook, desktop a jiné."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:26
+msgid "Administrační systém"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:27
+msgid ""
+"Uživatelsky přívětivý systém pro jednoduchou správu a editaci mnoha prvků "
+"Vašeho webu bez znalostí kódování."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:33
+msgid "Přehledný reporting"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:34
+msgid ""
+"Přehledné statistiky a grafy znázorňující návštěvnost webu, jednotlivých "
+"stránek, prodejů, tržeb a mnoho dalšího."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:40
+msgid "Marketing"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:41
+msgid ""
+"Optimalizuji Vaše stránky a provedu Vás online světem marketingu! Google, "
+"Seznam i méně používaný Bing nebo Yahoo jsou samozřejmostí."
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:47
+msgid "Silné zabezpečení"
+msgstr ""
+
+#: apiru-parts/apiru-icons.php:48
+msgid ""
+"Kladu důraz na maximální zabezpečení a stabilitu. Na základě toho pravidelně "
+"aktualizuji moje systémy."
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:4
+msgid "Proč právě já?"
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:5
+msgid "Důvody navíc proč do toho jít právě semnou."
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:13
+msgid "Automatické aktualizace"
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:14
+msgid ""
+"Vydávám pravidelné aktualizace pro Vaše systémy pro zajištění maximální "
+"bezpečnosti a stability. Aktualizace probíhají automaticky v nejvhodnější "
+"čas, aby nedošlo k omezení provozu webových stránek."
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:20
+msgid "Instalace zdarma"
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:21
+msgid ""
+"Nainstaluji a zřídím veškeré náležitosti, které jsou důležité pro uvedení "
+"webových stránek do provozu. Včetně všech nezbytných funkcí jako je SSL "
+"certifikát pro zabezpečení nebo vytvoření doménových e-mailů a jiných "
+"standardních úkonů."
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:30
+msgid "Automatické zálohy"
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:31
+msgid ""
+"V dnešní digitální době jsou data velmi cenná a proto se Vaše systémy "
+"automaticky zálohují pro zabezpečení nejen Vašich cenných dat, ale také k "
+"zajištění nepřetržitého online provozu. K dispozici budete mít 15GB na "
+"zálohy."
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:37
+msgid "Napojení"
+msgstr ""
+
+#: apiru-parts/apiru-iphone.php:38
+msgid ""
+"Napojím Vás na systémy třetích stran jako jsou sociální sítě Facebook nebo "
+"Instagram, ale také na systémy od Google jako Analytics, Ads a jiné. "
+"Samozřejmostí jsou i tuzemské systémy od Seznamu, Národní Identita nebo "
+"učetní software Pohoda."
+msgstr ""
+
+#: apiru-parts/apiru-projects.php:24
+msgid "Zobrazit detail"
+msgstr ""
+
+#: apiru-parts/apiru-search_ajax.php:7
+msgid "Hledáte něco?"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:28
+msgid "Webové stránky"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:31
+msgid ""
+"Kvalitní a moderní webové stránky na míru s jedinečným webdesignem a "
+"redakčním systémem."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:49
+msgid "E-shop řešení"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:52
+msgid ""
+"Chytré a komplexní e-shop online řešení s desítkami funkcí včetně napojení "
+"na služby třetích stran."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:69
+msgid "Rezervační systém"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:72
+msgid ""
+"Efektivní rezervační systém pro každý druh podnikání. Přehledné statistiky, "
+"notifikace, správa rezervací a mnoho dalšího."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:89
+msgid "WordPress šablona"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:92
+msgid ""
+"Originální WordPress šablona na míru pro nejrozšířenější redakční systém na "
+"světě s důrazem na UI/UX."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:109
+msgid "WordPress plugin"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:112
+msgid ""
+"Kvalitní plugin dle standardních kriterií, který rozšiřuje základní "
+"funkcionality a konfigurátory WordPressu."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:129
+msgid "Webová aplikace"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:132
+msgid ""
+"Rychlá, flexibilní a stabilní webová online aplikace jako například intranet "
+"nebo servicedesk."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:149
+msgid "Grafické práce"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:152
+msgid ""
+"Návrh jedinečné designové mapy pro vaše podnikání. Loga, vizitky a reklamní "
+"banery. Odliším Vás od konkurence."
+msgstr ""
+
+#: apiru-parts/apiru-services.php:170
+msgid "Programátorské práce"
+msgstr ""
+
+#: apiru-parts/apiru-services.php:173
+msgid ""
+"Úprava nebo ladění stávajícího webu včetně kompletní správy a údržby Vašich "
+"webových stránek."
+msgstr ""
+
+#: apiru-parts/apiru-start.php:8
+msgid "Začněte ještě dnes"
+msgstr ""
+
+#: apiru-parts/apiru-start.php:9
+msgid "Udělejte první krok k úspěšnému projektu. Zjistěte si orientační cenu."
+msgstr ""
+
+#: apiru-parts/apiru-start.php:15
+msgid "Nacenění zdarma"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:3
+msgid "Jak probíhá výroba projektu?"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:4
+msgid "Provedu Vás krok po kroku výrobou online řešení."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:10
+msgid "Konzultace"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:11
+msgid "zdarma"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:12
+msgid ""
+"Vyslechnu si Vaše cíle i požadavky a navrhnu optimální online řešení na míru "
+"pro Vaší značku."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:17
+msgid "Analýza"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:18
+msgid "projektu"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:19
+msgid ""
+"Zanalyzuji veškeré možnosti pro Váš projekt. Navrhnu strategii a postup."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:24
+msgid "Návrh"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:25
+msgid "designu"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:26
+msgid ""
+"Navrhnu a vytvořím Vám moderní responzivní design, aby co nejvíce odrážel "
+"Vaší značku."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:31
+msgid "Výroba"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:32
+msgid "systému"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:33
+msgid ""
+"Pomocí letitých zkušeností a unikátního know-how vyrobím Váš projekt na míru "
+"a profesionálně."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:38
+msgid "Online"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:39
+msgid "marketing"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:40
+msgid ""
+"Optimalizuji stránky pro vyhledávače Seznam i Google, napojím Vás na "
+"sociální sítě včetně PPC reklam a mnoho dalšího."
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:45
+msgid "Úspěšný"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:46
+msgid "projekt"
+msgstr ""
+
+#: apiru-parts/apiru-timeline.php:47
+msgid ""
+"Pomáhám klientům v budování jejich značky. Půjdete do toho naplnou semnou?"
+msgstr ""
+
+#: inc/apiru_core.php:48
+msgid "Navbar"
+msgstr ""
+
+#: inc/apiru_core.php:49
+msgid "Footer 1"
+msgstr ""
+
+#: inc/apiru_core.php:50
+msgid "Footer 2"
+msgstr ""
+
+#: inc/apiru_send_mail.php:82
+msgid "Send license key"
+msgstr ""
+
+#: inc/admin/apiru_filters.php:22
+msgid "Image"
+msgstr ""
+
+#: inc/admin/apiru_filters.php:47
+msgid "None"
+msgstr ""
+
+#: inc/admin/apiru_filters.php:123
+msgid "Custom Column by Apiru"
+msgstr ""
+
+#: inc/admin/apiru_filters.php:215
+msgid "Garant"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:12 inc/cpt/apiru_docs.php:13
+#: inc/cpt/apiru_docs.php:14 inc/cpt/apiru_docs.php:15
+#: inc/cpt/apiru_docs.php:19 inc/cpt/apiru_docs.php:41
+msgid "Dokumentace"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:16 inc/cpt/apiru_documents.php:16
+#: inc/cpt/apiru_posts.php:16 inc/cpt/apiru_projects.php:16
+#: inc/cpt/apiru_tickets.php:16
+msgid "Archívy příspěvků"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:17 inc/cpt/apiru_documents.php:17
+#: inc/cpt/apiru_posts.php:17 inc/cpt/apiru_projects.php:17
+#: inc/cpt/apiru_tickets.php:17
+msgid "Vlastnosti příspěvků"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:18 inc/cpt/apiru_documents.php:18
+#: inc/cpt/apiru_posts.php:18 inc/cpt/apiru_projects.php:18
+#: inc/cpt/apiru_tickets.php:18
+msgid "Nadřazená položka:"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:20 inc/cpt/apiru_docs.php:21
+#: inc/cpt/apiru_documents.php:20 inc/cpt/apiru_documents.php:21
+#: inc/cpt/apiru_posts.php:20 inc/cpt/apiru_posts.php:21
+#: inc/cpt/apiru_projects.php:20 inc/cpt/apiru_projects.php:21
+#: inc/cpt/apiru_tickets.php:20 inc/cpt/apiru_tickets.php:21
+msgid "Vytvořit příspěvek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:22 inc/cpt/apiru_documents.php:22
+#: inc/cpt/apiru_posts.php:22 inc/cpt/apiru_projects.php:22
+#: inc/cpt/apiru_tickets.php:22
+msgid "Nový příspěvek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:23 inc/cpt/apiru_documents.php:23
+#: inc/cpt/apiru_posts.php:23 inc/cpt/apiru_projects.php:23
+#: inc/cpt/apiru_tickets.php:23
+msgid "Upravit příspěvek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:24 inc/cpt/apiru_documents.php:24
+#: inc/cpt/apiru_posts.php:24 inc/cpt/apiru_projects.php:24
+#: inc/cpt/apiru_tickets.php:24
+msgid "Aktualizovat"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:25 inc/cpt/apiru_docs.php:26
+#: inc/cpt/apiru_documents.php:25 inc/cpt/apiru_documents.php:26
+#: inc/cpt/apiru_posts.php:25 inc/cpt/apiru_posts.php:26
+#: inc/cpt/apiru_projects.php:25 inc/cpt/apiru_projects.php:26
+#: inc/cpt/apiru_tickets.php:25 inc/cpt/apiru_tickets.php:26
+msgid "Náhled příspěvku"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:27 inc/cpt/apiru_documents.php:27
+#: inc/cpt/apiru_posts.php:27 inc/cpt/apiru_projects.php:27
+#: inc/cpt/apiru_tickets.php:27
+msgid "Hledat příspěvek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:28 inc/cpt/apiru_docs.php:29
+#: inc/cpt/apiru_documents.php:28 inc/cpt/apiru_documents.php:29
+#: inc/cpt/apiru_posts.php:28 inc/cpt/apiru_posts.php:29
+#: inc/cpt/apiru_projects.php:28 inc/cpt/apiru_projects.php:29
+#: inc/cpt/apiru_tickets.php:28 inc/cpt/apiru_tickets.php:29
+msgid "Nebyly nalezeny žádné příspěvky"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:30 inc/cpt/apiru_documents.php:30
+#: inc/cpt/apiru_posts.php:30 inc/cpt/apiru_projects.php:30
+#: inc/cpt/apiru_tickets.php:30
+msgid "Náhledový obrázek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:31 inc/cpt/apiru_documents.php:31
+#: inc/cpt/apiru_posts.php:31 inc/cpt/apiru_projects.php:31
+#: inc/cpt/apiru_tickets.php:31
+msgid "Nastavit náhledový obrázek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:32 inc/cpt/apiru_documents.php:32
+#: inc/cpt/apiru_posts.php:32 inc/cpt/apiru_projects.php:32
+#: inc/cpt/apiru_tickets.php:32
+msgid "Odstranit náhledový obrázek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:33 inc/cpt/apiru_documents.php:33
+#: inc/cpt/apiru_posts.php:33 inc/cpt/apiru_projects.php:33
+#: inc/cpt/apiru_tickets.php:33
+msgid "Použít náhledový obrázek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:34 inc/cpt/apiru_documents.php:34
+#: inc/cpt/apiru_posts.php:34 inc/cpt/apiru_projects.php:34
+#: inc/cpt/apiru_tickets.php:34
+msgid "Vložit náhledový obrázek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:35 inc/cpt/apiru_documents.php:35
+#: inc/cpt/apiru_posts.php:35 inc/cpt/apiru_projects.php:35
+#: inc/cpt/apiru_tickets.php:35
+msgid "Nahráno do této položky"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:36 inc/cpt/apiru_documents.php:36
+#: inc/cpt/apiru_posts.php:36 inc/cpt/apiru_projects.php:36
+#: inc/cpt/apiru_tickets.php:36
+msgid "Seznam položek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:37 inc/cpt/apiru_documents.php:37
+#: inc/cpt/apiru_posts.php:37 inc/cpt/apiru_projects.php:37
+#: inc/cpt/apiru_tickets.php:37
+msgid "Navigace v seznamu položek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:38 inc/cpt/apiru_documents.php:38
+#: inc/cpt/apiru_posts.php:38 inc/cpt/apiru_projects.php:38
+#: inc/cpt/apiru_tickets.php:38
+msgid "Filtrovat seznam položek"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:80 inc/cpt/apiru_documents.php:80
+#: inc/cpt/apiru_posts.php:81 inc/cpt/apiru_projects.php:80
+#: inc/cpt/apiru_tickets.php:80
+msgid "Všechny kategorie"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:81 inc/cpt/apiru_docs.php:82
+#: inc/cpt/apiru_documents.php:81 inc/cpt/apiru_documents.php:82
+#: inc/cpt/apiru_posts.php:82 inc/cpt/apiru_posts.php:83
+#: inc/cpt/apiru_projects.php:81 inc/cpt/apiru_projects.php:82
+#: inc/cpt/apiru_tickets.php:81 inc/cpt/apiru_tickets.php:82
+msgid "Nadřazená položka"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:83 inc/cpt/apiru_documents.php:83
+#: inc/cpt/apiru_posts.php:84 inc/cpt/apiru_projects.php:83
+#: inc/cpt/apiru_tickets.php:83
+msgid "Nový název kategorie"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:84 inc/cpt/apiru_documents.php:84
+#: inc/cpt/apiru_posts.php:85 inc/cpt/apiru_projects.php:84
+#: inc/cpt/apiru_tickets.php:84
+msgid "Vytvořit novou kategorii"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:85 inc/cpt/apiru_documents.php:85
+#: inc/cpt/apiru_posts.php:86 inc/cpt/apiru_projects.php:85
+#: inc/cpt/apiru_tickets.php:85
+msgid "Editovat kategorii"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:86 inc/cpt/apiru_documents.php:86
+#: inc/cpt/apiru_posts.php:87 inc/cpt/apiru_projects.php:86
+#: inc/cpt/apiru_tickets.php:86
+msgid "Aktualizovat kategorii"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:87 inc/cpt/apiru_documents.php:87
+#: inc/cpt/apiru_posts.php:88 inc/cpt/apiru_projects.php:87
+#: inc/cpt/apiru_tickets.php:87
+msgid "Zobrazit kategorii"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:88 inc/cpt/apiru_documents.php:88
+#: inc/cpt/apiru_posts.php:89 inc/cpt/apiru_projects.php:88
+#: inc/cpt/apiru_tickets.php:88
+msgid "Kategorie oddělujte čárkami"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:89 inc/cpt/apiru_documents.php:89
+#: inc/cpt/apiru_posts.php:90 inc/cpt/apiru_projects.php:89
+#: inc/cpt/apiru_tickets.php:89
+msgid "Vytvořit nebo odebrat kategorie"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:90 inc/cpt/apiru_documents.php:90
+#: inc/cpt/apiru_posts.php:91 inc/cpt/apiru_projects.php:90
+#: inc/cpt/apiru_tickets.php:90
+msgid "Vyberte si z nejpoužívanějších"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:91 inc/cpt/apiru_documents.php:91
+#: inc/cpt/apiru_posts.php:92 inc/cpt/apiru_projects.php:91
+#: inc/cpt/apiru_tickets.php:91
+msgid "Oblíbené kategorie"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:92 inc/cpt/apiru_documents.php:92
+#: inc/cpt/apiru_posts.php:93 inc/cpt/apiru_projects.php:92
+#: inc/cpt/apiru_tickets.php:92
+msgid "Hledat kategorie"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:93 inc/cpt/apiru_docs.php:94
+#: inc/cpt/apiru_documents.php:93 inc/cpt/apiru_documents.php:94
+#: inc/cpt/apiru_posts.php:94 inc/cpt/apiru_posts.php:95
+#: inc/cpt/apiru_projects.php:93 inc/cpt/apiru_projects.php:94
+#: inc/cpt/apiru_tickets.php:93 inc/cpt/apiru_tickets.php:94
+msgid "Žádné kategorie nebyly nalezeny"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:95 inc/cpt/apiru_documents.php:95
+#: inc/cpt/apiru_posts.php:96 inc/cpt/apiru_projects.php:95
+#: inc/cpt/apiru_tickets.php:95
+msgid "Seznam kategorií"
+msgstr ""
+
+#: inc/cpt/apiru_docs.php:96 inc/cpt/apiru_documents.php:96
+#: inc/cpt/apiru_posts.php:97 inc/cpt/apiru_projects.php:96
+#: inc/cpt/apiru_tickets.php:96
+msgid "Navigace v seznamu kategorií"
+msgstr ""
+
+#: inc/cpt/apiru_documents.php:12 inc/cpt/apiru_documents.php:13
+#: inc/cpt/apiru_documents.php:14 inc/cpt/apiru_documents.php:15
+#: inc/cpt/apiru_documents.php:19 inc/cpt/apiru_documents.php:41
+msgid "Doklad"
+msgstr ""
+
+#: inc/cpt/apiru_posts.php:12 inc/cpt/apiru_posts.php:13
+#: inc/cpt/apiru_posts.php:14 inc/cpt/apiru_posts.php:15
+#: inc/cpt/apiru_posts.php:19 inc/cpt/apiru_posts.php:41
+msgid "Blog"
+msgstr ""
+
+#: inc/cpt/apiru_tickets.php:12 inc/cpt/apiru_tickets.php:13
+#: inc/cpt/apiru_tickets.php:14 inc/cpt/apiru_tickets.php:15
+#: inc/cpt/apiru_tickets.php:19 inc/cpt/apiru_tickets.php:41
+msgid "Požadavky"
+msgstr ""
+
+#: inc/modules/apiru_bootstrap_navwalker.php:369
+msgid "Add a menu"
+msgstr ""
+
+#: inc/modules/apiru_breadcrumbs.php:23
+msgid "Úvod"
+msgstr ""
+
+#: inc/modules/apiru_breadcrumbs.php:258
+msgid "Vytvořit požadavek"
+msgstr ""
+
+#: inc/modules/apiru_paged.php:22
+msgid "Předchozí"
+msgstr ""
+
+#: inc/modules/apiru_paged.php:23
+msgid "Následující"
+msgstr ""
+
+#: inc/modules/apiru_pagination.php:24
+msgid "<i class=\"fa-solid fa-arrow-left mr-1\"></i> Předchozí"
+msgstr ""
+
+#: inc/modules/apiru_pagination.php:25
+msgid "Následující <i class=\"fa-solid fa-arrow-right ml-1\"></i>"
+msgstr ""
+
+#: inc/modules/apiru_search.php:48
+msgid "Litujeme nic nebylo nalezeno."
+msgstr ""
+
+#: inc/woo/apiru_woo.php:228
+#, php-format
+msgid "%s Pokud nakoupíte ještě za %s tak získáte %s"
+msgstr ""
+
+#: inc/woo/apiru_woo.php:231
+msgid "dopravu ZDARMA!"
+msgstr ""
+
+#: inc/woo/apiru_woo.php:234
+msgid " Gratulujeme získali jste dopravu ZDARMA!"
+msgstr ""
+
+#: inc/woo/apiru_woo_navbar.php:63 inc/woo/apiru_woo_navbar.php:216
+msgid "Počet domén:"
+msgstr ""
+
+#: inc/woo/apiru_woo_navbar.php:64 inc/woo/apiru_woo_navbar.php:217
+msgid "Expirace:"
+msgstr ""
+
+#: inc/woo/apiru_woo_navbar.php:70 inc/woo/apiru_woo_navbar.php:223
+msgid "Klíč:"
+msgstr ""
+
+#: inc/woo/apiru_woo_navbar.php:75 inc/woo/apiru_woo_navbar.php:228
+msgid "Licence:"
+msgstr ""
+
+#: inc/woo/apiru_woo_navbar.php:76 inc/woo/apiru_woo_navbar.php:229
+msgid "Verze:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:51
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:52
+msgid "\n"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:78
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:81
+msgid "<"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:84
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:87
+#, python-format
+msgid " %s=\"%s\""
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:87
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:90
+msgid ">"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:101
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:104
+#, python-format
+msgid "</%s>%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:103
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:106
+#, python-format
+msgid "/>%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/input.py:1837
+#: node_modules/node-gyp/gyp/pylib/gyp/input.py:1898
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/input.py:2011
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/input.py:2073
+#, python-format
+msgid "Cycle: %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:358
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:401
+msgid "_MBCS"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:423
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:470
+msgid "/safeseh"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:473
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:546
+msgid "/FS"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:543
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:628
+#, python-format
+msgid "/DEF:\"%s\""
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:575
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:677
+msgid "/OUT:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:578
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:680
+msgid "/PDB:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:581
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:683
+msgid "/PGD:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:604
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:712
+#, python-format
+msgid "/STACK:%s%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:643
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:750
+msgid "/DYNAMICBASE"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:650
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:757
+msgid "/NXCOMPAT"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:692
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:808
+msgid "/MANIFESTUAC:NO"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:740
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:863
+msgid "/ALLOWISOLATION"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:785
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:911
+msgid "/I"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:72
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:84
+msgid "|"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:76
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:88
+msgid "||"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:276
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:277
+#, python-format
+msgid "\\U%04x"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:988
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:1046
+msgid ".name"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:999
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:1057
+msgid ".path"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:1066
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:1130
+msgid "$("
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:481
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:585
+#, python-format
+msgid "-isysroot %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:484
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:591
+msgid "-Wconstant-conversion"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:487
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:594
+msgid "-funsigned-char"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:490
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:597
+msgid "-fasm-blocks"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:494
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:601
+msgid "-mdynamic-no-pic"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:502
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:609
+msgid "-mpascal-strings"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:509
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:513
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:616
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:620
+msgid "-gdwarf-2"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:518
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:625
+msgid "-fstrict-aliasing"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:520
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:627
+msgid "-fno-strict-aliasing"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:523
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:630
+msgid "-fvisibility=hidden"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:526
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:633
+msgid "-Werror"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:529
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:636
+msgid "-Wnewline-eof"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:536
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:643
+msgid "-flto"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:559
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:822
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:666
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:950
+msgid "-arch "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:563
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:670
+msgid "-msse3"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:566
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:674
+msgid "-mssse3"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:568
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:676
+msgid "-msse4.1"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:570
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:678
+msgid "-msse4.2"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:577
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:586
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:840
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:845
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:685
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:694
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:969
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:974
+msgid "-F"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:596
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:704
+msgid "-ansi"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:613
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:722
+#, python-format
+msgid "-std=%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:618
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:727
+msgid "-fno-rtti"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:620
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:729
+msgid "-fno-exceptions"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:622
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:731
+msgid "-fvisibility-inlines-hidden"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:624
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:733
+msgid "-fno-threadsafe-statics"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:627
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:736
+msgid "-Wno-invalid-offsetof"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:647
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:756
+msgid "-fobjc-gc"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:649
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:758
+msgid "-fobjc-gc-only"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:653
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:762
+msgid "-fobjc-arc"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:658
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:768
+msgid "-Wobjc-missing-property-synthesis"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:678
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:788
+msgid "-fobjc-call-cxx-cdtors"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:790
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:916
+msgid "-Wl,-dead_strip"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:793
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:919
+msgid "-Wl,-prebind"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:803
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:929
+msgid "-isysroot "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:806
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:825
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:932
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:954
+msgid "-L"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:809
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:936
+msgid "-Wl,-order_file "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:829
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:958
+msgid "-install_name "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:832
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:961
+msgid "-Wl,-rpath,"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:853
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:985
+msgid "-lpkstart"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:856
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:988
+msgid "/System/Library/PrivateFrameworks/PlugInKit.framework/PlugInKit"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:857
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:992
+msgid "-fapplication-extension"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:858
+msgid "-Xlinker -rpath -Xlinker @executable_path/../../Frameworks"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:950
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1085
+#, python-format
+msgid "echo STRIP\\(%s\\)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:951
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1086
+#, python-format
+msgid "strip %s %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:969
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1107
+#, python-format
+msgid "echo DSYMUTIL\\(%s\\)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:970
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1108
+#, python-format
+msgid "dsymutil %s -o %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1618
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1903
+#, python-format
+msgid "echo POSTBUILD\\(%s\\) %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/__init__.py:364
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/__init__.py:478
+msgid "USERPROFILE"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/analyzer.py:663
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/analyzer.py:717
+msgid "all"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/android.py:450
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:982
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1108
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1150
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/android.py:499
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1026
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1168
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1210
+#, python-format
+msgid "$(%s)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:376
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:377
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:393
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:394
+msgid "${"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py:223
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py:234
+msgid "1"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1279
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1371
+msgid "$(OBJS)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1501
+#, python-format
+msgid "-Wl,-rpath=\\$$ORIGIN/lib.%s/"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1502
+#, python-format
+msgid "-Wl,-rpath-link=\\$(builddir)/lib.%s/"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1530
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1658
+msgid "$(TARGET_POSTBUILDS_$(BUILDTYPE))"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1994
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:2221
+msgid "BUILDTYPE="
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:2946
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:3271
+msgid "Label"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:3109
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:3456
+#, python-format
+msgid "%%(%s)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1181
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1477
+#, python-format
+msgid "-Wl,-rpath=\\$$ORIGIN/%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1182
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1480
+#, python-format
+msgid "-Wl,-rpath-link=%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1415
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1784
+#, python-format
+msgid "export %s=%s;"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/test_gyp.py:220
+#, python-format
+msgid "(%s) %s"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:588
+#, python-format
+msgid "-I%s"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:975
+msgid "-framework XCTest"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:991
+msgid "-e _NSExtensionMain"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1624
+msgid "-Wl,-rpath=\\$$ORIGIN/"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1625
+msgid "-Wl,-rpath-link=\\$(builddir)/"
+msgstr ""
+
+#: node_modules/node-sass/node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1479
+#, python-format
+msgid "-Wl,-rpath=%s"
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update/plugin-update-checker/Puc/v4p9/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:154
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:201
+msgid "Theme License - "
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:356
+msgid ""
+"Unexpected Error! The query to retrieve the license data returned a "
+"malformed response."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:374
+msgid "The license is already in use for this domain."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:377
+msgid ""
+"The license has reached the maximum number of activations and cannot be "
+"activated for this domain."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:383
+msgid "The license is already inactive for this domain."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:394
+#, php-format
+msgid "The license expired on %s and needs to be renewed to be updated."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:398
+msgid "The license expired and needs to be renewed to be updated."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:404
+msgid ""
+"The license is blocked and cannot be updated anymore. Please use another "
+"license key."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:410
+msgid ""
+"The license has not been activated and its status is stil pending. Please "
+"try again or use another license key."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:416
+msgid "The provided license key is invalid. Please use another license key."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:419
+msgid ""
+"The provided license key does not appear to be valid. Please use another "
+"license key."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:423
+msgid ""
+"An active license is required to update the plugin. Please provide a valid "
+"license key in Plugins > Installed Plugins."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:425
+msgid ""
+"An active license is required to update the theme. Please provide a valid "
+"license key in Appearence > Theme License."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:431
+msgid ""
+"An unexpected error has occured. Please try again. If the problem persists, "
+"please contact the author of the plugin."
+msgstr ""
+
+#: update/wp-package-updater/class-wp-package-updater.php:433
+msgid ""
+"An unexpected error has occured. Please try again. If the problem persists, "
+"please contact the author of the theme."
+msgstr ""
+
+#: update/wp-package-updater/templates/license-form.php:6
+msgid "Current license key:"
+msgstr ""
+
+#: update/wp-package-updater/templates/license-form.php:9
+msgid "License key to change:"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:30
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:32
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:38
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:143
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:26
+#: woocommerce/auth/form-login.php:25
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:35
+#, php-format
+msgid "This will give \"%1$s\" %2$s access which will allow it to:"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:50
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:52
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:57
+msgid "Approve"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:58
+msgid "Deny"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:34
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"<a href=\"%2$s\">cancel and return to %1$s</a>"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:40 woocommerce/myaccount/form-login.php:33
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:44 woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:98
+#: woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:49 woocommerce/global/form-login.php:51
+#: woocommerce/myaccount/form-login.php:124
+#: woocommerce/myaccount/form-lost-password.php:55
+msgid "Login"
+msgstr ""
+
+#: woocommerce/auth/header.php:27
+msgid "Application authentication request"
+msgstr ""
+
+#: woocommerce/auth/header.php:32
+msgid "WooCommerce"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:44
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+#: woocommerce/checkout/review-order.php:103
+#: woocommerce/myaccount/my-orders.php:17
+#: woocommerce/order/order-details.php:53
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+#: woocommerce/checkout/form-pay.php:27
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/emails/email-order-details.php:42
+#: woocommerce/order/order-details.php:52
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+#: woocommerce/emails/email-order-details.php:44
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+#: woocommerce/emails/email-order-details.php:43
+#: woocommerce/global/quantity-input.php:77
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147 woocommerce/cart/cart.php:148
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:158 woocommerce/cart/cart.php:159
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:32
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:29
+msgid "Return to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:25
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:29
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:33
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:38
+#: woocommerce/checkout/thankyou.php:70
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:84
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-cancelled-order.php:28
+#: woocommerce/emails/plain/admin-cancelled-order.php:25
+#, php-format
+msgid ""
+"Notification to let you know &mdash; order #%1$s belonging to %2$s has been "
+"cancelled:"
+msgstr ""
+
+#: woocommerce/emails/admin-failed-order.php:28
+#: woocommerce/emails/plain/admin-failed-order.php:25
+#, php-format
+msgid "Payment for order #%1$s from %2$s has failed. The order was as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:26
+#: woocommerce/emails/plain/admin-new-order.php:25
+#, php-format
+msgid "You’ve received the following order from %s:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:28
+#: woocommerce/emails/customer-invoice.php:30
+#: woocommerce/emails/customer-new-account.php:23
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-on-hold-order.php:26
+#: woocommerce/emails/customer-processing-order.php:28
+#: woocommerce/emails/customer-refunded-order.php:26
+#: woocommerce/emails/customer-reset-password.php:27
+#: woocommerce/emails/plain/customer-completed-order.php:25
+#: woocommerce/emails/plain/customer-invoice.php:25
+#: woocommerce/emails/plain/customer-new-account.php:25
+#: woocommerce/emails/plain/customer-note.php:25
+#: woocommerce/emails/plain/customer-on-hold-order.php:25
+#: woocommerce/emails/plain/customer-processing-order.php:25
+#: woocommerce/emails/plain/customer-refunded-order.php:25
+#: woocommerce/emails/plain/customer-reset-password.php:25
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:29
+#: woocommerce/emails/plain/customer-completed-order.php:27
+msgid "We have finished processing your order."
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:38
+#: woocommerce/emails/plain/customer-invoice.php:31
+#, php-format
+msgid ""
+"An order has been created for you on %1$s. Your invoice is below, with a "
+"link to make payment when you’re ready: %2$s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:46
+msgid "Pay for this order"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:55
+#: woocommerce/emails/plain/customer-invoice.php:39
+#, php-format
+msgid "Here are the details of your order placed on %s:"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:25
+#: woocommerce/emails/plain/customer-new-account.php:27
+#, php-format
+msgid ""
+"Thanks for creating an account on %1$s. Your username is %2$s. You can "
+"access your account area to view orders, change your password, and more at: "
+"%3$s"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:28
+msgid "Click here to set your new password."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/plain/customer-note.php:26
+msgid "The following note has been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:33
+#: woocommerce/emails/plain/customer-note.php:34
+msgid "As a reminder, here are your order details:"
+msgstr ""
+
+#: woocommerce/emails/customer-on-hold-order.php:27
+#: woocommerce/emails/plain/customer-on-hold-order.php:26
+msgid ""
+"Thanks for your order. It’s on-hold until we confirm that payment has been "
+"received. In the meantime, here’s a reminder of what you ordered:"
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:30
+#: woocommerce/emails/plain/customer-processing-order.php:27
+#, php-format
+msgid ""
+"Just to let you know &mdash; we've received your order #%s, and it is now "
+"being processed:"
+msgstr ""
+
+#: woocommerce/emails/customer-refunded-order.php:32
+#: woocommerce/emails/plain/customer-refunded-order.php:28
+#, php-format
+msgid ""
+"Your order on %s has been partially refunded. There are more details below "
+"for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-refunded-order.php:35
+#: woocommerce/emails/plain/customer-refunded-order.php:31
+#, php-format
+msgid ""
+"Your order on %s has been refunded. There are more details below for your "
+"reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:29
+#: woocommerce/emails/plain/customer-reset-password.php:27
+#, php-format
+msgid "Someone has requested a new password for the following account on %s:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:31
+#: woocommerce/emails/plain/customer-reset-password.php:29
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:32
+#: woocommerce/emails/plain/customer-reset-password.php:30
+msgid ""
+"If you didn't make this request, just ignore this email. If you'd like to "
+"proceed:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:35
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:29
+#: woocommerce/emails/plain/email-addresses.php:20
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:32
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:32
+#: woocommerce/order/order-details-customer.php:36
+#: woocommerce/order/order-details-customer.php:56
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:43
+#: woocommerce/emails/plain/email-addresses.php:35
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:53
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-customer-details.php:24
+#: woocommerce/emails/plain/email-customer-details.php:22
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/email-downloads.php:22
+#: woocommerce/emails/plain/email-downloads.php:20
+#: woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: woocommerce/emails/email-downloads.php:58
+#: woocommerce/emails/plain/email-downloads.php:40
+#: woocommerce/order/order-downloads.php:70
+msgid "Never"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:34
+#, php-format
+msgid "[Order #%s]"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:80
+#: woocommerce/emails/plain/email-order-details.php:46
+#: woocommerce/order/order-details.php:94
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-new-account.php:32
+msgid "To set your password, visit the following address: "
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-details.php:23
+#, php-format
+msgid "[Order #%1$s] (%2$s)"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-details.php:51
+#, php-format
+msgid "View order: %s"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-lost-password.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+#: woocommerce/myaccount/form-login.php:45
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:90
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:21
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:27
+#: woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:45
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href="
+"\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:47 woocommerce/myaccount/orders.php:112
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:50
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:54
+#: woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:60
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Osobní údaje"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:53
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:61
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:74
+#: woocommerce/myaccount/form-edit-account.php:75
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:49
+#: woocommerce/myaccount/form-edit-address.php:50
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:55
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#: woocommerce/myaccount/form-login.php:69
+#: woocommerce/myaccount/form-login.php:118
+#: woocommerce/myaccount/form-login.php:119
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:68
+#: woocommerce/myaccount/form-lost-password.php:30
+#: woocommerce/myaccount/form-lost-password.php:48
+#: woocommerce/myaccount/form-lost-password.php:49
+#: woocommerce/myaccount/form-reset-password.php:51
+#: woocommerce/myaccount/form-reset-password.php:52
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:27
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:29
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:36
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:25
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:73
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:29
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:39
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:63 woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:75 woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:97
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:101
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:115
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:28 woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:37 woocommerce/order/tracking.php:41
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:43 woocommerce/order/tracking.php:47
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:34
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:49
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:46
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:64
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/photoswipe.php:34
+msgid "Close (Esc)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:35
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:36
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:37
+msgid "Zoom in/out"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:49
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:50
+msgid "Next (arrow right)"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
