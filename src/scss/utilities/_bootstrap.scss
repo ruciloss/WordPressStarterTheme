@@ -4,7 +4,7 @@
 // 2. Include any default variable overrides here
 $prefix: wpde-;
 $primary: #1d4ed8;
-$secondary: #0ea5e9; 
+$secondary: #0ea5e9;
 
 $enable-caret: true; // true
 $enable-rounded: true; // true
@@ -47,13 +47,20 @@ $grays: (
 $spacer: 1rem; // 1rem
 $spacers: (
     0: 0,
-    1: $spacer * 0.25, // $spacer * 0.25
-    2: $spacer * 0.5, // $spacer * 0.5
-    3: $spacer, // $spacer
-    4: $spacer * 1.5, // $spacer * 1.5
-    5: $spacer * 3, // $spacer * 3
-    6: $spacer * 4.5, // custom
-    8: $spacer * 6.5, // custom
+    1: $spacer * 0.25,
+    // $spacer * 0.25
+    2: $spacer * 0.5,
+    // $spacer * 0.5
+    3: $spacer,
+    // $spacer
+    4: $spacer * 1.5,
+    // $spacer * 1.5
+    5: $spacer * 3,
+    // $spacer * 3
+    6: $spacer * 4.5,
+    // custom
+    8: $spacer * 6.5,
+    // custom
 );
 
 // Typography

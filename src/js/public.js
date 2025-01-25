@@ -41,7 +41,7 @@
         }
 
         // Show alert
-        $(window).scroll(function() {
+        $(window).scroll(function () {
             if ($(this).scrollTop() > 400) {
                 $("#alert").removeClass("d-none").addClass("d-block");
             } else {
@@ -52,20 +52,20 @@
         // Calculate the height of the navbar to set the margin-top of <main>
         if (!$("body").hasClass("home")) {
             if ($(".navbar").hasClass("position-fixed") || $(".navbar").hasClass("headroom")) {
-                var navbarHeight = $(".navbar").outerHeight(); 
+                var navbarHeight = $(".navbar").outerHeight();
                 document.getElementById("app").style.setProperty("margin-top", navbarHeight + "px", "important");
             }
         }
     });
 
     // CTRL + K - Open modal and focus input
-    $(document).on('keydown', function (event) {
-        if (event.ctrlKey && event.key === 'k') {
+    $(document).on("keydown", function (event) {
+        if (event.ctrlKey && event.key === "k") {
             event.preventDefault();
-            $('#modal-searchform').modal('show');
-            $('#search').focus();
+            $("#modal-searchform").modal("show");
+            $("#search").focus();
         }
-    });    
+    });
 
     // Headroom
     let lastScroll = 0;
@@ -88,13 +88,13 @@
     });
 
     // Preloader
-    if ($('#preloader').length) {
-        $('html, body').addClass('overflow-hidden');
-        setTimeout(function() {
-                $('#preloader').fadeOut(500, function() {
-                    $(this).remove();
-                });
-                $('html, body').removeClass('overflow-hidden');
+    if ($("#preloader").length) {
+        $("html, body").addClass("overflow-hidden");
+        setTimeout(function () {
+            $("#preloader").fadeOut(500, function () {
+                $(this).remove();
+            });
+            $("html, body").removeClass("overflow-hidden");
         }, 2000);
     }
 

@@ -1214,7 +1214,8 @@ class WPDE {
      *
      * @return void Stops execution to handle redirection or display an error message.
      */
-    public function clone_post() {
+    public function clone_post() 
+    {
         // Verifying that the user has rights
         if (!isset($_GET['post']) || !isset($_GET['_wpnonce']) || 
             !wp_verify_nonce($_GET['_wpnonce'], 'clone_post_' . $_GET['post'])) {

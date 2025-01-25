@@ -2,14 +2,14 @@
 
 // Options page
 body.toplevel_page_wpde {
-    font-family: 'Inter', 'sans-serif';
+    font-family: "Inter", "sans-serif";
     background: var(--wpde-bg);
-    
+
     #adminmenumain {
         display: none;
     }
 
-    #wpadminbar{
+    #wpadminbar {
         @media only screen and (min-width: 769px) {
             display: none;
         }
@@ -53,7 +53,7 @@ body.toplevel_page_wpde {
             justify-content: center;
             padding: 8px 10px;
             background: var(--wpde-bg-dark);
-            transition: all .2s ease;
+            transition: all 0.2s ease;
         }
 
         .navbar-logo {
@@ -91,7 +91,7 @@ body.toplevel_page_wpde {
                     color: var(--wpde-black);
                     padding: 15px 20px;
                     border-left: 1px solid var(--wpde-border);
-                    transition: all .2s ease;
+                    transition: all 0.2s ease;
 
                     &:hover {
                         background-color: var(--wpde-bg);
@@ -144,7 +144,7 @@ body.toplevel_page_wpde {
                     border: 0;
                     border-radius: 3px;
                     text-transform: uppercase;
-                    transition: all .2s ease;
+                    transition: all 0.2s ease;
 
                     &:hover {
                         opacity: 0.9;
@@ -185,7 +185,7 @@ body.toplevel_page_wpde {
         align-items: center;
 
         &:before {
-            content: '';
+            content: "";
             margin-right: 12px;
             padding: 0;
             height: 28px;
@@ -201,7 +201,7 @@ body.toplevel_page_wpde {
             background-position: center;
 
             @media only screen and (max-width: 600px) {
-                width: 50px; 
+                width: 50px;
             }
         }
 
@@ -216,13 +216,13 @@ body.toplevel_page_wpde {
         padding: 13px;
 
         &:before {
-            content: '';
+            content: "";
             background-size: 12px;
             background-repeat: no-repeat;
             background-position: center;
-            background-image: url('../../img/admin/dismiss.svg'); 
+            background-image: url("../../img/admin/dismiss.svg");
             filter: var(--wpde-gray-filter);
-            transition: all .2s ease;
+            transition: all 0.2s ease;
         }
 
         &:hover:before {
@@ -236,7 +236,7 @@ body.toplevel_page_wpde {
         border-color: var(--wpde-success-border);
 
         &:before {
-            background-image: url('../../img/admin/success.svg'); 
+            background-image: url("../../img/admin/success.svg");
             background-color: var(--wpde-success);
         }
     }
@@ -247,7 +247,7 @@ body.toplevel_page_wpde {
         border-color: var(--wpde-warning-border);
 
         &:before {
-            background-image: url('../../img/admin/warning.svg'); 
+            background-image: url("../../img/admin/warning.svg");
             background-color: var(--wpde-warning);
         }
     }
@@ -258,7 +258,7 @@ body.toplevel_page_wpde {
         border-color: var(--wpde-danger-border);
 
         &:before {
-            background-image: url('../../img/admin/error.svg'); 
+            background-image: url("../../img/admin/error.svg");
             background-color: var(--wpde-danger);
         }
     }
@@ -269,9 +269,8 @@ body.toplevel_page_wpde {
         border-color: var(--wpde-info-border);
 
         &:before {
-            background-image: url('../../img/admin/info.svg'); 
+            background-image: url("../../img/admin/info.svg");
             background-color: var(--wpde-info);
         }
     }
-
 } // END toplevel_page_wpde

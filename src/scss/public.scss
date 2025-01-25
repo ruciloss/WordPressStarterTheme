@@ -16,14 +16,14 @@ html {
 
 #wpadminbar {
     opacity: 0;
-    transition: all .2s;
+    transition: all 0.2s;
 
     &:hover {
         opacity: 1;
     }
 
     #wp-admin-bar-wpde .ab-icon:before {
-        content: url('../../img/admin/icon.svg'); 
+        content: url("../../img/admin/icon.svg");
         width: 18px !important;
         height: 18px !important;
         display: block !important;
