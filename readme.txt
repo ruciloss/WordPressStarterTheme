@@ -6,5 +6,5 @@ Tested up to: 6.7.1
 Requires PHP: 8.0
 Stable tag: 1.0.0
 License: MIT
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+License URI: https://ruciloss.github.io/license/gpl
 Text Domain: wpde  

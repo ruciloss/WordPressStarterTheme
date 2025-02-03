@@ -9,7 +9,7 @@ Check out the https://ruciloss.github.io
 
 ## License
 
-Distributed under the **GPLv3** License. See [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) for more information.
+Distributed under the **GPLv3** License. See [LICENSE](https://ruciloss.github.io/license/gpl) for more information.
 
 ## Credits
 
